@@ -22,10 +22,9 @@
  
  3.Documentation 
  
-  - J'héberge les documents présentant le contexte de mes PPE
-  - J'héberge le code source de mes PPE 
-  - J'héberge mes productions (compte-rendus, documentation techniques, documentations utilisateurs...)
-  - J'ajoute des liens vers les applications téléchargeables ou testables en ligne
+  - Vous trouverez un dossier Documentation associé à ce projet sinon voici un lien vers la documentation
+  - Ou un lien direct : 
+ 
   <br>
   
  4.Téléchargement de l'application
